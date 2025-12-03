@@ -1,0 +1,1215 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Organic Banana (1 kg)",
+      "price": 58,
+      "category": "fruits",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReDCQ09l3HLF2pYjRSK-3fNaQAUTOeLt_U7Q&s",
+      "weight": "1 kg",
+      "rating": 4.4,
+      "stock": 120,
+      "tags": [
+        "fresh",
+        "organic"
+      ],
+      "description": "Naturally ripened organic bananas sourced from certified farms.",
+      "nutrition": "Calories: 89 kcal, Carbs: 23 g, Potassium rich"
+    },
+    {
+      "id": "2",
+      "name": "Farm Fresh Tomatoes (1 kg)",
+      "price": 32,
+      "category": "vegetables",
+      "image": "https://agrosiaa.com/uploads/userdata/blogs/21/16131047741.png",
+      "weight": "1 kg",
+      "rating": 4.3,
+      "stock": 150,
+      "tags": [
+        "fresh"
+      ],
+      "description": "Juicy tomatoes ideal for salads, curries, and sauces.",
+      "nutrition": "Calories: 18 kcal, Vitamin C: 13 mg"
+    },
+    {
+      "id": "3",
+      "name": "Amul Cow Milk (1 L)",
+      "price": 72,
+      "category": "dairy",
+      "image": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/12e7f5c3d8bf6ecf380a753611517baf",
+      "weight": "1 L",
+      "rating": 4.7,
+      "stock": 200,
+      "tags": [
+        "organic"
+      ],
+      "description": "Pure A2 milk from grass-fed cows; delivered fresh.",
+      "nutrition": "Protein: 3.2 g, Fat: 4.5 g"
+    },
+    {
+      "id": "4",
+      "name": "Alphonso Mango (1 kg)",
+      "price": 299,
+      "category": "fruits",
+      "image": "https://aamrai.com/wp-content/uploads/2023/12/KESAR-scaled.jpg",
+      "weight": "1 kg",
+      "rating": 4.9,
+      "stock": 40,
+      "tags": [
+        "seasonal",
+        "premium"
+      ],
+      "description": "Hand-picked Alphonso mangoes from Ratnagiri farms.",
+      "nutrition": "Calories: 99 kcal, Vitamin A rich"
+    },
+    {
+      "id": "5",
+      "name": "Capsicum",
+      "price": 265,
+      "category": "vegetables",
+      "image": "https://www.bbassets.com/media/uploads/p/l/40211819_1-fresho-baby-capsicum-green.jpg",
+      "weight": "500 gm ",
+      "rating": 4.6,
+      "stock": 80,
+      "tags": [
+        "cold pressed"
+      ],
+      "description": "100% natural fresh capsicum.",
+      "nutrition": "Fresh"
+    },
+    {
+      "id": "6",
+      "name": "Whole Wheat Bread (400 g)",
+      "price": 48,
+      "category": "bakery",
+      "image": "https://www.bhg.com/thmb/ov2S31znAvSCXqrpgJQ8rwBgzp8=/2250x0/filters:no_upscale():strip_icc()/BHG-milk-bread-4CdeIL1uKGyB5ryU8J_EED-aaa76729c86a413ca7500029edba79f0.jpg",
+      "weight": "400 g",
+      "rating": 4.1,
+      "stock": 120,
+      "tags": [
+        "freshly baked"
+      ],
+      "description": "Soft, fresh whole wheat bread baked early morning.",
+      "nutrition": "Calories: 265 kcal per 100 g"
+    },
+    {
+      "id": "7",
+      "name": "Roasted Almonds (250 g)",
+      "price": 235,
+      "category": "snacks",
+      "image": "https://joyfoodsunshine.com/wp-content/uploads/2020/10/candied-almonds-recipe-1x1-1.jpg",
+      "weight": "250 g",
+      "rating": 4.6,
+      "stock": 90,
+      "tags": [
+        "protein rich"
+      ],
+      "description": "Crunchy roasted almonds lightly salted.",
+      "nutrition": "Protein: 21 g, Fat: 49 g per 100 g"
+    },
+    {
+      "id": "8",
+      "name": "Classic Basmati Rice (5 kg)",
+      "price": 580,
+      "category": "cereals",
+      "image": "https://cdn.zyrosite.com/cdn-ecommerce/store_01J5AC7882PDWW80EA36AYCACF%2Fassets%2F1724678940975-Basmati-Rice.jpg",
+      "weight": "5 kg",
+      "rating": 4.5,
+      "stock": 60,
+      "tags": [
+        "value pack"
+      ],
+      "description": "Long grain basmati rice ideal for biryani and pulao.",
+      "nutrition": "Carbs: 75 g per 100 g"
+    },
+    {
+      "id": "9",
+      "name": "Fresh Paneer (200 g)",
+      "price": 78,
+      "category": "dairy",
+      "image": "https://someindiangirl.com/wp-content/uploads/2022/06/Instant-Pot-Paneer-2-of-4-scaled.jpg",
+      "weight": "200 g",
+      "rating": 4.3,
+      "stock": 150,
+      "tags": [
+        "high protein"
+      ],
+      "description": "Soft and creamy paneer made from fresh milk.",
+      "nutrition": "Protein: 18 g per 100 g"
+    },
+    {
+      "id": "10",
+      "name": "Tender Coconut Water (1 pc)",
+      "price": 52,
+      "category": "fruits",
+      "image": "https://kumaribasket.com/wp-content/uploads/2021/01/Tender-Coconut1.jpg",
+      "weight": "1 piece",
+      "rating": 4.5,
+      "stock": 80,
+      "tags": [
+        "hydration"
+      ],
+      "description": "Refreshing natural tender coconut water.",
+      "nutrition": "Rich in electrolytes"
+    },
+    {
+      "id": "11",
+      "name": "Red Onions (1 kg)",
+      "price": 34,
+      "category": "vegetables",
+      "image": "https://www.jiomart.com/images/product/original/590011678/onion-1-kg-pack-product-images-o590011678-p611163418-1-202503161707.jpg?im=Resize=(420,420)",
+      "weight": "1 kg",
+      "rating": 4.2,
+      "stock": 140,
+      "tags": [
+        "daily essential"
+      ],
+      "description": "Fresh red onions with strong flavour and aroma.",
+      "nutrition": "Calories: 40 kcal per 100 g"
+    },
+    {
+      "id": "12",
+      "name": "Potatoes (2 kg)",
+      "price": 52,
+      "category": "vegetables",
+      "image": "https://images.ctfassets.net/0dkgxhks0leg/RKiZ605RAV8kjDQnxFCWP/b03b8729817c90b29b88d536bfd37ac5/9-Unusual-Uses-For-Potatoes.jpg",
+      "weight": "2 kg",
+      "rating": 4.1,
+      "stock": 200,
+      "tags": [
+        "bulk pack"
+      ],
+      "description": "Clean and sorted potatoes suitable for all cooking needs.",
+      "nutrition": "Carbs: 17 g per 100 g"
+    },
+    {
+      "id": "13",
+      "name": "Cucumber (500 g)",
+      "price": 24,
+      "category": "vegetables",
+      "image": "https://m.media-amazon.com/images/I/71xkI-PIE5L._AC_UF350,350_QL80_.jpg",
+      "weight": "500 g",
+      "rating": 4.3,
+      "stock": 90,
+      "tags": [
+        "fresh"
+      ],
+      "description": "Crisp and refreshing cucumbers ideal for salads.",
+      "nutrition": "Hydrating, 95% water content"
+    },
+    {
+      "id": "14",
+      "name": "Carrots (1 kg)",
+      "price": 44,
+      "category": "vegetables",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWp3Vx2S_zSSRoLboLpODBfF2QR-HOXcKFKg&s",
+      "weight": "1 kg",
+      "rating": 4.4,
+      "stock": 130,
+      "tags": [
+        "fresh"
+      ],
+      "description": "Crunchy orange carrots rich in beta-carotene.",
+      "nutrition": "Vitamin A rich"
+    },
+    {
+      "id": "15",
+      "name": "Green Beans (500 g)",
+      "price": 38,
+      "category": "vegetables",
+      "image": "https://images.everydayhealth.com/images/diet-nutrition/potential-health-benefits-of-green-beans-1440x810.jpg?sfvrsn=f52328f0_5",
+      "weight": "500 g",
+      "rating": 4.2,
+      "stock": 110,
+      "tags": [
+        "fresh"
+      ],
+      "description": "Tender green beans perfect for stir-fries and curries.",
+      "nutrition": "Fiber rich"
+    },
+    {
+      "id": "16",
+      "name": "Broccoli (1 pc)",
+      "price": 58,
+      "category": "vegetables",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeZqH9yW-68zVN0006n7P9h8rAPtmIFNKuxA&s",
+      "weight": "250â€“300 g",
+      "rating": 4.6,
+      "stock": 60,
+      "tags": [
+        "healthy"
+      ],
+      "description": "Fresh green broccoli rich in vitamins and antioxidants.",
+      "nutrition": "Vitamin C rich"
+    },
+    {
+      "id": "17",
+      "name": "Cauliflower (1 pc)",
+      "price": 42,
+      "category": "vegetables",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5-qovZ0FCqah6IyWZmH9f7wbKgEtqE4qUqw&s",
+      "weight": "1 piece",
+      "rating": 4.2,
+      "stock": 80,
+      "tags": [
+        "fresh"
+      ],
+      "description": "Fresh cauliflower ideal for curries and fries.",
+      "nutrition": "Low calorie, rich in fiber"
+    },
+    {
+      "id": "18",
+      "name": "Spinach Leaves (250 g)",
+      "price": 20,
+      "category": "vegetables",
+      "image": "https://www.trustbasket.com/cdn/shop/articles/Spinach.webp?v=1686909241",
+      "weight": "250 g",
+      "rating": 4.3,
+      "stock": 120,
+      "tags": [
+        "leafy"
+      ],
+      "description": "Fresh spinach cleaned and ready to cook.",
+      "nutrition": "Iron rich"
+    },
+    {
+      "id": "19",
+      "name": "Coriander Leaves (100 g)",
+      "price": 12,
+      "category": "vegetables",
+      "image": "https://www.greendna.in/cdn/shop/products/corinder_leaves_600x.jpg?v=1559416353",
+      "weight": "100 g",
+      "rating": 4.4,
+      "stock": 150,
+      "tags": [
+        "herbs"
+      ],
+      "description": "Aromatic coriander leaves packed with freshness.",
+      "nutrition": "Vitamin K rich"
+    },
+    {
+      "id": "20",
+      "name": "Mint Leaves (100 g)",
+      "price": 14,
+      "category": "vegetables",
+      "image": "https://www.jiomart.com/images/product/original/590000532/mint-leaves-1-bunch-approx-80-g-130-g-product-images-o590000532-p590000532-0-202506101652.jpg?im=Resize=(1000,1000)",
+      "weight": "100 g",
+      "rating": 4.5,
+      "stock": 90,
+      "tags": [
+        "herbs"
+      ],
+      "description": "Refreshing mint leaves ideal for chutneys and teas.",
+      "nutrition": "Rich in antioxidants"
+    },
+    {
+      "id": "21",
+      "name": "Cashews W320 (500 g)",
+      "price": 445,
+      "category": "snacks",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR34hh9nwtX9ik2C9ofuL7klp_1h68nv0Fl4g&s",
+      "weight": "500 g",
+      "rating": 4.7,
+      "stock": 70,
+      "tags": [
+        "premium"
+      ],
+      "description": "Crisp cashew nuts ideal for snacking and cooking.",
+      "nutrition": "Healthy fats, magnesium"
+    },
+    {
+      "id": "22",
+      "name": "Pistachios (250 g)",
+      "price": 360,
+      "category": "snacks",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2025/05/Pistachios440-c05d208.jpg",
+      "weight": "250 g",
+      "rating": 4.5,
+      "stock": 65,
+      "tags": [
+        "premium"
+      ],
+      "description": "Salted pistachios with crunchy texture.",
+      "nutrition": "Protein: 20 g per 100 g"
+    },
+    {
+      "id": "23",
+      "name": "Walnuts (250 g)",
+      "price": 290,
+      "category": "snacks",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH3bHPWZ9ncPyt9HnkSFQCM2F7dOTQ7KsSBA&s",
+      "weight": "250 g",
+      "rating": 4.6,
+      "stock": 80,
+      "tags": [
+        "brain food"
+      ],
+      "description": "Premium walnuts rich in omega-3.",
+      "nutrition": "Omega-3 rich"
+    },
+    {
+      "id": "24",
+      "name": "Raisins (500 g)",
+      "price": 130,
+      "category": "snacks",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8iL15ET2GQab6PC3IjZXn6edwuHnrny9vHQ&s",
+      "weight": "500 g",
+      "rating": 4.3,
+      "stock": 90,
+      "tags": [
+        "natural"
+      ],
+      "description": "Sweet raisins ideal for desserts and snacking.",
+      "nutrition": "Iron rich"
+    },
+    {
+      "id": "25",
+      "name": "Salted Peanuts (1 kg)",
+      "price": 140,
+      "category": "snacks",
+      "image": "https://tse1.explicit.bing.net/th/id/OIP.Bbp208QM807b4UJTXRtshwAAAA?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "weight": "1 kg",
+      "rating": 4.2,
+      "stock": 100,
+      "tags": [
+        "value pack"
+      ],
+      "description": "Crunchy salted peanuts perfect for munching.",
+      "nutrition": "Protein: 26 g per 100 g"
+    },
+    {
+      "id": "26",
+      "name": "Apples Royal Gala (1 kg)",
+      "price": 145,
+      "category": "fruits",
+      "image": "https://cdn.britannica.com/22/187222-050-07B17FB6/apples-on-a-tree-branch.jpg",
+      "weight": "1 kg",
+      "rating": 4.4,
+      "stock": 100,
+      "tags": [
+        "premium"
+      ],
+      "description": "Crisp and juicy Royal Gala apples.",
+      "nutrition": "Fiber rich"
+    },
+    {
+      "id": "27",
+      "name": "Pomegranate (1 kg)",
+      "price": 168,
+      "category": "fruits",
+      "image": "https://afoodcentriclife.com/wp-content/uploads/2012/11/pomegranates.jpg",
+      "weight": "1 kg",
+      "rating": 4.6,
+      "stock": 80,
+      "tags": [
+        "antioxidant"
+      ],
+      "description": "Sweet red pomegranates rich in nutrients.",
+      "nutrition": "Vitamin C rich"
+    },
+    {
+      "id": "28",
+      "name": "Papaya (1 pc)",
+      "price": 55,
+      "category": "fruits",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZYT1tOS5o7hV4hje57tDhYLYd-f6WwZdDpg&s",
+      "weight": "1 piece",
+      "rating": 4.3,
+      "stock": 70,
+      "tags": [
+        "digestive"
+      ],
+      "description": "Ripe papaya with natural sweetness.",
+      "nutrition": "Rich in digestive enzymes"
+    },
+    {
+      "id": "29",
+      "name": "Pineapple (1 pc)",
+      "price": 68,
+      "category": "fruits",
+      "image": "https://png.pngtree.com/png-clipart/20250119/original/pngtree-three-pineapple-fruits-with-one-of-them-cut-off-ready-to-png-image_19775729.png",
+      "weight": "1 piece",
+      "rating": 4.5,
+      "stock": 60,
+      "tags": [
+        "tropical"
+      ],
+      "description": "Juicy pineapple freshly harvested.",
+      "nutrition": "Vitamin C rich"
+    },
+    {
+      "id": "30",
+      "name": "Grapes Green Seedless (500 g)",
+      "price": 65,
+      "category": "fruits",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLhEm7m1x4nBh2fQx54W_3RMzr6MJqSsVX4w&s",
+      "weight": "500 g",
+      "rating": 4.4,
+      "stock": 100,
+      "tags": [
+        "fresh"
+      ],
+      "description": "Sweet and seedless green grapes.",
+      "nutrition": "Low calorie"
+    },
+    {
+      "id": "31",
+      "name": "Turmeric Powder (200 g)",
+      "price": 45,
+      "category": "spices",
+      "image": "https://hospitalityinsights.ehl.edu/hs-fs/hubfs/EHL-Passugg_Blog_Kurkuma_Titelbild_001.jpg?width=700&height=462&name=EHL-Passugg_Blog_Kurkuma_Titelbild_001.jpg",
+      "weight": "200 g",
+      "rating": 4.6,
+      "stock": 85,
+      "tags": [
+        "organic",
+        "pure"
+      ],
+      "description": "Pure organic turmeric powder for cooking and health benefits.",
+      "nutrition": "Curcumin rich"
+    },
+    {
+      "id": "32",
+      "name": "Red Chili Powder (100 g)",
+      "price": 35,
+      "category": "spices",
+      "image": "https://tonsvalley.shop/wp-content/uploads/2024/05/WhatsApp-Image-2021-12-18-at-13.59.45.jpeg",
+      "weight": "100 g",
+      "rating": 4.4,
+      "stock": 92,
+      "tags": [
+        "spicy",
+        "premium"
+      ],
+      "description": "Premium quality red chili powder for authentic spicy taste.",
+      "nutrition": "Rich in vitamins A and C"
+    },
+    {
+      "id": "33",
+      "name": "Garam Masala (100 g)",
+      "price": 55,
+      "category": "spices",
+      "image": "https://aachifoods.com/cdn/shop/files/garam-masala-100g.webp?v=1755501724&width=1946",
+      "weight": "100 g",
+      "rating": 4.7,
+      "stock": 78,
+      "tags": [
+        "blend",
+        "aromatic"
+      ],
+      "description": "Traditional blend of aromatic spices for authentic Indian cuisine.",
+      "nutrition": "Natural spices blend"
+    },
+    {
+      "id": "34",
+      "name": "Coriander Powder (200 g)",
+      "price": 40,
+      "category": "spices",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5DJ07dL9nTlkgWA6S9kErmoLnuMBlGm7yAQ&s",
+      "weight": "200 g",
+      "rating": 4.5,
+      "stock": 88,
+      "tags": [
+        "fresh",
+        "ground"
+      ],
+      "description": "Finely ground coriander seeds with fresh citrusy flavor.",
+      "nutrition": "Dietary fiber rich"
+    },
+    {
+      "id": "35",
+      "name": "Cumin Seeds (200 g)",
+      "price": 65,
+      "category": "spices",
+      "image": "https://5.imimg.com/data5/UL/WD/MY-28786083/cumin-seed.jpg",
+      "weight": "200 g",
+      "rating": 4.6,
+      "stock": 75,
+      "tags": [
+        "whole",
+        "aromatic"
+      ],
+      "description": "Premium quality whole cumin seeds with strong aroma.",
+      "nutrition": "Iron and magnesium rich"
+    },
+    {
+      "id": "36",
+      "name": "Instant Noodles (Pack of 4)",
+      "price": 85,
+      "category": "packed food",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcu7Hxtk0I4gnq3tkWVqmtTbV_HT2bAe4z8A&s",
+      "weight": "280 g",
+      "rating": 4.2,
+      "stock": 120,
+      "tags": [
+        "ready to cook",
+        "popular"
+      ],
+      "description": "Quick and delicious instant noodles perfect for snacks.",
+      "nutrition": "Calories: 380 per serving"
+    },
+    {
+      "id": "37",
+      "name": "Pasta (500 g)",
+      "price": 95,
+      "category": "packed food",
+      "image": "https://rukminim2.flixcart.com/image/480/640/xif0q/pasta/q/o/q/-original-imahcfd4emf4vtzu.jpeg?q=90",
+      "weight": "500 g",
+      "rating": 4.5,
+      "stock": 85,
+      "tags": [
+        "italian",
+        "versatile"
+      ],
+      "description": "Premium quality pasta perfect for various Italian dishes.",
+      "nutrition": "Carbs: 75 g per 100 g"
+    },
+    {
+      "id": "38",
+      "name": "Biscuits (Pack of 10)",
+      "price": 45,
+      "category": "packed food",
+      "image": "https://slurrpfarm.com/cdn/shop/files/1_18ecd179-4ef5-4e5f-8d46-05d8290a55f3.jpg?v=1762769113",
+      "weight": "200 g",
+      "rating": 4.3,
+      "stock": 95,
+      "tags": [
+        "tea time",
+        "crunchy"
+      ],
+      "description": "Delicious crunchy biscuits perfect with tea or coffee.",
+      "nutrition": "Calories: 450 per 100 g"
+    },
+    {
+      "id": "39",
+      "name": "Ready-to-Eat Meals (Pack of 2)",
+      "price": 150,
+      "category": "packed food",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf9IAX5IHPi-JStdNZ1i6jIUSf6uD2k_wzXg&s",
+      "weight": "600 g",
+      "rating": 4.1,
+      "stock": 65,
+      "tags": [
+        "microwaveable",
+        "convenient"
+      ],
+      "description": "Delicious ready-to-eat meals, just heat and serve.",
+      "nutrition": "Balanced meal with proteins and carbs"
+    },
+    {
+      "id": "40",
+      "name": "Breakfast Cereal (300 g)",
+      "price": 125,
+      "category": "packed food",
+      "image": "https://www.healthyfood.com/wp-content/uploads/2017/03/Everyday-shopping-Breakfast-cereals.jpg",
+      "weight": "300 g",
+      "rating": 4.4,
+      "stock": 78,
+      "tags": [
+        "healthy",
+        "morning"
+      ],
+      "description": "Nutritious breakfast cereal with essential vitamins and minerals.",
+      "nutrition": "Fiber rich, low fat"
+    },
+    {
+      "id": "1",
+      "name": "Sidi Ali",
+      "price": 285,
+      "category": "beverages",
+      "image": "https://images.openfoodfacts.org/images/products/611/103/500/0430/front_en.104.400.jpg",
+      "weight": "1 kg",
+      "rating": "3.1",
+      "stock": 164,
+      "tags": [
+        "en:beverages-and-beverages-preparations",
+        "en:beverages",
+        "en:waters"
+      ],
+      "description": "Imported from Open Food Facts: Sidi Ali",
+      "nutrition": "Calories: N/A kcal per 100g",
+      "source": "external_api",
+      "importedAt": "2025-12-03T12:27:35.430Z"
+    },
+    {
+      "id": "2",
+      "name": "perly",
+      "price": 379,
+      "category": "misc",
+      "image": "https://images.openfoodfacts.org/images/products/611/124/210/0992/front_fr.131.400.jpg",
+      "weight": "1 kg",
+      "rating": "3.7",
+      "stock": 222,
+      "tags": [
+        "en:dairies",
+        "en:fermented-foods",
+        "en:fermented-milk-products"
+      ],
+      "description": "Imported from Open Food Facts: perly",
+      "nutrition": "Calories: 97 kcal per 100g",
+      "source": "external_api",
+      "importedAt": "2025-12-03T12:27:35.431Z"
+    },
+    {
+      "id": "3",
+      "name": "Sidi Ali",
+      "price": 477,
+      "category": "beverages",
+      "image": "https://images.openfoodfacts.org/images/products/611/103/500/2175/front_fr.118.400.jpg",
+      "weight": "1 kg",
+      "rating": "3.1",
+      "stock": 198,
+      "tags": [
+        "en:beverages-and-beverages-preparations",
+        "en:beverages",
+        "en:waters"
+      ],
+      "description": "Imported from Open Food Facts: Sidi Ali",
+      "nutrition": "Calories: N/A kcal per 100g",
+      "source": "external_api",
+      "importedAt": "2025-12-03T12:27:35.431Z"
+    },
+    {
+      "id": "4",
+      "name": "Eau minérale naturelle",
+      "price": 213,
+      "category": "beverages",
+      "image": "https://images.openfoodfacts.org/images/products/611/103/500/0058/front_en.121.400.jpg",
+      "weight": "1 kg",
+      "rating": "4.6",
+      "stock": 116,
+      "tags": [
+        "en:beverages-and-beverages-preparations",
+        "en:beverages",
+        "en:waters"
+      ],
+      "description": "Imported from Open Food Facts: Eau minérale naturelle",
+      "nutrition": "Calories: N/A kcal per 100g",
+      "source": "external_api",
+      "importedAt": "2025-12-03T12:27:35.431Z"
+    },
+    {
+      "id": "5",
+      "name": "اكوافينا",
+      "price": 205,
+      "category": "beverages",
+      "image": "https://images.openfoodfacts.org/images/products/611/125/242/1568/front_en.62.400.jpg",
+      "weight": "1 kg",
+      "rating": "4.2",
+      "stock": 222,
+      "tags": [
+        "en:beverages-and-beverages-preparations",
+        "en:beverages",
+        "en:waters"
+      ],
+      "description": "Imported from Open Food Facts: اكوافينا",
+      "nutrition": "Calories: N/A kcal per 100g",
+      "source": "external_api",
+      "importedAt": "2025-12-03T12:27:35.431Z"
+    },
+    {
+      "id": "6",
+      "name": "Lait",
+      "price": 136,
+      "category": "misc",
+      "image": "https://images.openfoodfacts.org/images/products/611/126/696/2187/front_fr.56.400.jpg",
+      "weight": "1 kg",
+      "rating": "4.0",
+      "stock": 216,
+      "tags": [
+        "en:dairies",
+        "en:meals",
+        "en:milks-liquid-and-powder"
+      ],
+      "description": "Imported from Open Food Facts: Lait",
+      "nutrition": "Calories: 45 kcal per 100g",
+      "source": "external_api",
+      "importedAt": "2025-12-03T12:27:35.431Z"
+    },
+    {
+      "id": "7",
+      "name": "Eau De Source",
+      "price": 293,
+      "category": "beverages",
+      "image": "https://images.openfoodfacts.org/images/products/327/408/000/5003/front_en.797.400.jpg",
+      "weight": "1 kg",
+      "rating": "4.0",
+      "stock": 87,
+      "tags": [
+        "en:beverages-and-beverages-preparations",
+        "en:beverages",
+        "en:waters"
+      ],
+      "description": "Imported from Open Food Facts: Eau De Source",
+      "nutrition": "Calories: N/A kcal per 100g",
+      "source": "external_api",
+      "importedAt": "2025-12-03T12:27:35.431Z"
+    },
+    {
+      "id": "8",
+      "name": "Fromage blanc nature",
+      "price": 354,
+      "category": "misc",
+      "image": "https://images.openfoodfacts.org/images/products/611/124/672/1261/front_en.14.400.jpg",
+      "weight": "1 kg",
+      "rating": "4.9",
+      "stock": 189,
+      "tags": [
+        "en:dairies",
+        "en:fermented-foods",
+        "en:fermented-milk-products"
+      ],
+      "description": "Imported from Open Food Facts: Fromage blanc nature",
+      "nutrition": "Calories: 80.6 kcal per 100g",
+      "source": "external_api",
+      "importedAt": "2025-12-03T12:27:35.431Z"
+    },
+    {
+      "id": "9",
+      "name": "uht jaouda 1L",
+      "price": 441,
+      "category": "misc",
+      "image": "https://images.openfoodfacts.org/images/products/611/124/210/1180/front_fr.79.400.jpg",
+      "weight": "1 kg",
+      "rating": "3.1",
+      "stock": 193,
+      "tags": [
+        "en:dairies",
+        "en:milks-liquid-and-powder",
+        "en:milks"
+      ],
+      "description": "Imported from Open Food Facts: uht jaouda 1L",
+      "nutrition": "Calories: 58 kcal per 100g",
+      "source": "external_api",
+      "importedAt": "2025-12-03T12:27:35.431Z"
+    },
+    {
+      "id": "10",
+      "name": "Jben",
+      "price": 388,
+      "category": "misc",
+      "image": "https://images.openfoodfacts.org/images/products/611/124/210/6949/front_fr.77.400.jpg",
+      "weight": "1 kg",
+      "rating": "4.5",
+      "stock": 220,
+      "tags": [
+        "en:dairies",
+        "en:fermented-foods",
+        "en:fermented-milk-products"
+      ],
+      "description": "Imported from Open Food Facts: Jben",
+      "nutrition": "Calories: 235 kcal per 100g",
+      "source": "external_api",
+      "importedAt": "2025-12-03T12:27:35.431Z"
+    },
+    {
+      "id": "11",
+      "name": "Ain Saïss",
+      "price": 440,
+      "category": "beverages",
+      "image": "https://images.openfoodfacts.org/images/products/611/112/800/0071/front_fr.62.400.jpg",
+      "weight": "1 kg",
+      "rating": "3.4",
+      "stock": 64,
+      "tags": [
+        "en:beverages-and-beverages-preparations",
+        "en:beverages",
+        "en:waters"
+      ],
+      "description": "Imported from Open Food Facts: Ain Saïss",
+      "nutrition": "Calories: N/A kcal per 100g",
+      "source": "external_api",
+      "importedAt": "2025-12-03T12:27:35.431Z"
+    },
+    {
+      "id": "12",
+      "name": "Eau minéral naturelle",
+      "price": 338,
+      "category": "beverages",
+      "image": "https://images.openfoodfacts.org/images/products/611/103/550/2828/front_fr.3.400.jpg",
+      "weight": "1 kg",
+      "rating": "4.9",
+      "stock": 215,
+      "tags": [
+        "en:beverages-and-beverages-preparations",
+        "en:beverages",
+        "en:waters"
+      ],
+      "description": "Imported from Open Food Facts: Eau minéral naturelle",
+      "nutrition": "Calories: N/A kcal per 100g",
+      "source": "external_api",
+      "importedAt": "2025-12-03T12:27:35.431Z"
+    },
+    {
+      "id": "13",
+      "name": "6111035000027",
+      "price": 52,
+      "category": "beverages",
+      "image": "https://images.openfoodfacts.org/images/products/611/103/500/0027/front_en.59.400.jpg",
+      "weight": "1 kg",
+      "rating": "4.7",
+      "stock": 196,
+      "tags": [
+        "en:beverages-and-beverages-preparations",
+        "en:beverages",
+        "en:waters"
+      ],
+      "description": "Imported from Open Food Facts: 6111035000027",
+      "nutrition": "Calories: N/A kcal per 100g",
+      "source": "external_api",
+      "importedAt": "2025-12-03T12:27:35.431Z"
+    },
+    {
+      "id": "14",
+      "name": "Marmite Yeast Extract",
+      "price": 543,
+      "category": "misc",
+      "image": "https://images.openfoodfacts.org/images/products/000/005/018/4453/front_en.126.400.jpg",
+      "weight": "1 kg",
+      "rating": "3.5",
+      "stock": 64,
+      "tags": [
+        "en:fermented-foods",
+        "en:spreads",
+        "en:salted-spreads"
+      ],
+      "description": "Imported from Open Food Facts: Marmite Yeast Extract",
+      "nutrition": "Calories: 260 kcal per 100g",
+      "source": "external_api",
+      "importedAt": "2025-12-03T12:27:35.431Z"
+    },
+    {
+      "id": "15",
+      "name": "Product 15",
+      "price": 121,
+      "category": "misc",
+      "image": "https://images.openfoodfacts.org/images/products/611/124/210/0985/front_en.58.400.jpg",
+      "weight": "1 kg",
+      "rating": "4.8",
+      "stock": 172,
+      "tags": [
+        "en:dairies",
+        "en:fermented-foods",
+        "en:fermented-milk-products"
+      ],
+      "description": "Imported from Open Food Facts: ",
+      "nutrition": "Calories: 101 kcal per 100g",
+      "source": "external_api",
+      "importedAt": "2025-12-03T12:27:35.431Z"
+    },
+    {
+      "id": "16",
+      "name": "Product 16",
+      "price": 224,
+      "category": "misc",
+      "image": "https://images.openfoodfacts.org/images/products/611/103/200/9665/front_en.29.400.jpg",
+      "weight": "1 kg",
+      "rating": "4.3",
+      "stock": 84,
+      "tags": [
+        "en:dairies",
+        "en:milks-liquid-and-powder",
+        "en:milks"
+      ],
+      "description": "Imported from Open Food Facts: undefined",
+      "nutrition": "Calories: 45 kcal per 100g",
+      "source": "external_api",
+      "importedAt": "2025-12-03T12:27:35.431Z"
+    },
+    {
+      "id": "17",
+      "name": "Product 17",
+      "price": 111,
+      "category": "misc",
+      "image": "https://images.openfoodfacts.org/images/products/611/109/900/3897/front_en.42.400.jpg",
+      "weight": "1 kg",
+      "rating": "4.4",
+      "stock": 165,
+      "tags": [
+        "en:plant-based-foods-and-beverages",
+        "en:dairies",
+        "en:plant-based-foods"
+      ],
+      "description": "Imported from Open Food Facts: ",
+      "nutrition": "Calories: 675 kcal per 100g",
+      "source": "external_api",
+      "importedAt": "2025-12-03T12:27:35.431Z"
+    },
+    {
+      "id": "18",
+      "name": "Original Taste",
+      "price": 50,
+      "category": "beverages",
+      "image": "https://images.openfoodfacts.org/images/products/544/900/005/4227/front_en.406.400.jpg",
+      "weight": "1 kg",
+      "rating": "4.8",
+      "stock": 199,
+      "tags": [
+        "en:beverages-and-beverages-preparations",
+        "en:beverages",
+        "en:carbonated-drinks"
+      ],
+      "description": "Imported from Open Food Facts: Original Taste",
+      "nutrition": "Calories: 42 kcal per 100g",
+      "source": "external_api",
+      "importedAt": "2025-12-03T12:27:35.431Z"
+    },
+    {
+      "id": "19",
+      "name": "اكوافينا",
+      "price": 223,
+      "category": "beverages",
+      "image": "https://images.openfoodfacts.org/images/products/611/125/242/1582/front_ar.34.400.jpg",
+      "weight": "1 kg",
+      "rating": "4.0",
+      "stock": 217,
+      "tags": [
+        "en:beverages-and-beverages-preparations",
+        "en:beverages",
+        "en:waters"
+      ],
+      "description": "Imported from Open Food Facts: اكوافينا",
+      "nutrition": "Calories: N/A kcal per 100g",
+      "source": "external_api",
+      "importedAt": "2025-12-03T12:27:35.431Z"
+    },
+    {
+      "id": "20",
+      "name": "Prince Goût Chocolat",
+      "price": 463,
+      "category": "snacks",
+      "image": "https://images.openfoodfacts.org/images/products/762/221/044/9283/front_en.605.400.jpg",
+      "weight": "1 kg",
+      "rating": "3.3",
+      "stock": 55,
+      "tags": [
+        "en:snacks",
+        "en:breakfasts",
+        "en:sweet-snacks"
+      ],
+      "description": "Imported from Open Food Facts: Prince Goût Chocolat",
+      "nutrition": "Calories: 465 kcal per 100g",
+      "source": "external_api",
+      "importedAt": "2025-12-03T12:27:35.431Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "d90e",
+      "name": "Yarima",
+      "phone": "9876543210",
+      "address": "SRM University, AP - Neerukonda",
+      "instructions": "Leave at gate",
+      "items": [
+        {
+          "id": 5,
+          "name": "Capsicum",
+          "price": 265,
+          "category": "vegetables",
+          "image": "https://www.bbassets.com/media/uploads/p/l/40211819_1-fresho-baby-capsicum-green.jpg",
+          "weight": "500 gm ",
+          "rating": 4.6,
+          "stock": 80,
+          "tags": [
+            "cold pressed"
+          ],
+          "description": "100% natural fresh capsicum.",
+          "nutrition": "Fresh",
+          "quantity": 1
+        },
+        {
+          "id": 27,
+          "name": "Pomegranate (1 kg)",
+          "price": 168,
+          "category": "fruits",
+          "image": "https://afoodcentriclife.com/wp-content/uploads/2012/11/pomegranates.jpg",
+          "weight": "1 kg",
+          "rating": 4.6,
+          "stock": 80,
+          "tags": [
+            "antioxidant"
+          ],
+          "description": "Sweet red pomegranates rich in nutrients.",
+          "nutrition": "Vitamin C rich",
+          "quantity": 1
+        },
+        {
+          "id": 31,
+          "name": "Turmeric Powder (200 g)",
+          "price": 45,
+          "category": "spices",
+          "image": "https://hospitalityinsights.ehl.edu/hs-fs/hubfs/EHL-Passugg_Blog_Kurkuma_Titelbild_001.jpg?width=700&height=462&name=EHL-Passugg_Blog_Kurkuma_Titelbild_001.jpg",
+          "weight": "200 g",
+          "rating": 4.6,
+          "stock": 85,
+          "tags": [
+            "organic",
+            "pure"
+          ],
+          "description": "Pure organic turmeric powder for cooking and health benefits.",
+          "nutrition": "Curcumin rich",
+          "quantity": 1
+        },
+        {
+          "id": 8,
+          "name": "Classic Basmati Rice (5 kg)",
+          "price": 580,
+          "category": "cereals",
+          "image": "https://cdn.zyrosite.com/cdn-ecommerce/store_01J5AC7882PDWW80EA36AYCACF%2Fassets%2F1724678940975-Basmati-Rice.jpg",
+          "weight": "5 kg",
+          "rating": 4.5,
+          "stock": 60,
+          "tags": [
+            "value pack"
+          ],
+          "description": "Long grain basmati rice ideal for biryani and pulao.",
+          "nutrition": "Carbs: 75 g per 100 g",
+          "quantity": 1
+        },
+        {
+          "id": 29,
+          "name": "Pineapple (1 pc)",
+          "price": 68,
+          "category": "fruits",
+          "image": "https://png.pngtree.com/png-clipart/20250119/original/pngtree-three-pineapple-fruits-with-one-of-them-cut-off-ready-to-png-image_19775729.png",
+          "weight": "1 piece",
+          "rating": 4.5,
+          "stock": 60,
+          "tags": [
+            "tropical"
+          ],
+          "description": "Juicy pineapple freshly harvested.",
+          "nutrition": "Vitamin C rich",
+          "quantity": 1
+        }
+      ],
+      "totals": {
+        "subtotal": 1126,
+        "delivery": 0,
+        "total": 1126
+      },
+      "paymentMethod": "cod",
+      "createdAt": "2025-12-01T07:00:17.491Z",
+      "status": "placed"
+    },
+    {
+      "id": "c1ce",
+      "name": "Yarima",
+      "phone": "9876543210",
+      "address": "GroceryEase HQ, Koramangala 5th Block, Bengaluru",
+      "instructions": "",
+      "items": [
+        {
+          "id": "27",
+          "name": "Pomegranate (1 kg)",
+          "price": 168,
+          "category": "fruits",
+          "image": "https://afoodcentriclife.com/wp-content/uploads/2012/11/pomegranates.jpg",
+          "weight": "1 kg",
+          "rating": 4.6,
+          "stock": 80,
+          "tags": [
+            "antioxidant"
+          ],
+          "description": "Sweet red pomegranates rich in nutrients.",
+          "nutrition": "Vitamin C rich",
+          "quantity": 1
+        },
+        {
+          "id": "22",
+          "name": "Pistachios (250 g)",
+          "price": 360,
+          "category": "snacks",
+          "image": "https://images.immediate.co.uk/production/volatile/sites/30/2025/05/Pistachios440-c05d208.jpg",
+          "weight": "250 g",
+          "rating": 4.5,
+          "stock": 65,
+          "tags": [
+            "premium"
+          ],
+          "description": "Salted pistachios with crunchy texture.",
+          "nutrition": "Protein: 20 g per 100 g",
+          "quantity": 1
+        }
+      ],
+      "totals": {
+        "subtotal": 528,
+        "delivery": 0,
+        "total": 528
+      },
+      "paymentMethod": "upi",
+      "createdAt": "2025-12-02T16:00:53.316Z",
+      "status": "placed"
+    },
+    {
+      "name": "Yarima",
+      "phone": "9876543210",
+      "address": "B-1203, Palm Residency, HSR Layout, Bengaluru",
+      "instructions": "",
+      "items": [
+        {
+          "id": 4,
+          "name": "Alphonso Mango (1 kg)",
+          "price": 299,
+          "category": "fruits",
+          "image": "https://aamrai.com/wp-content/uploads/2023/12/KESAR-scaled.jpg",
+          "weight": "1 kg",
+          "rating": 4.9,
+          "stock": 40,
+          "tags": [
+            "seasonal",
+            "premium"
+          ],
+          "description": "Hand-picked Alphonso mangoes from Ratnagiri farms.",
+          "nutrition": "Calories: 99 kcal, Vitamin A rich",
+          "quantity": 1
+        },
+        {
+          "id": 37,
+          "name": "Pasta (500 g)",
+          "price": 95,
+          "category": "packed food",
+          "image": "https://rukminim2.flixcart.com/image/480/640/xif0q/pasta/q/o/q/-original-imahcfd4emf4vtzu.jpeg?q=90",
+          "weight": "500 g",
+          "rating": 4.5,
+          "stock": 85,
+          "tags": [
+            "italian",
+            "versatile"
+          ],
+          "description": "Premium quality pasta perfect for various Italian dishes.",
+          "nutrition": "Carbs: 75 g per 100 g",
+          "quantity": 1
+        },
+        {
+          "id": 1764587457605,
+          "name": "Lays",
+          "price": 20,
+          "category": "packed food",
+          "image": "https://m.media-amazon.com/images/I/718mIkrmCfL._SL1500_.jpg",
+          "weight": "48 gm",
+          "rating": 4.5,
+          "stock": 10,
+          "tags": [
+            "More Chips"
+          ],
+          "description": "Hot & Sweet Chillie",
+          "nutrition": "calories:92 ",
+          "addedBy": "owner",
+          "addedAt": "2025-12-01T11:10:57.605Z",
+          "quantity": 1
+        }
+      ],
+      "totals": {
+        "subtotal": 414,
+        "delivery": 40,
+        "total": 454
+      },
+      "paymentMethod": "cod",
+      "createdAt": "2025-12-03T05:03:41.479Z",
+      "status": "placed",
+      "id": "6hy1Ye-"
+    }
+  ],
+  "users": []
+}
