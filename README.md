@@ -17,7 +17,7 @@ GroceryEase is a full-stack grocery delivery application built with React and JS
 ## Video Walkthrough & Code Explanation
 Watch the project demonstration and code walkthrough here:<br>
 [GrocerEase - Demo](https://drive.google.com/file/d/13IMFKBe84mcIjakvISFmzFptPOdamwW4/view?usp=sharing)<br> 
-[Code Walkthrough](https://drive.google.com/file/d/115yJtLGRam9xoypfOGX6IOuPoPleiLKT/view?usp=sharing)
+[GrocerEase - Code Walkthrough](https://drive.google.com/file/d/115yJtLGRam9xoypfOGX6IOuPoPleiLKT/view?usp=sharing)
 
 ## Project Architecture
 
@@ -383,5 +383,6 @@ This project is licensed under the MIT License.
 ---
 
 **GroceryEase** - Modern grocery delivery with full-stack implementation demonstrating React, JSON Server, and external API integration.
+
 
 
